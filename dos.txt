@@ -1,0 +1,15 @@
+Phân tích giao diện
+1. Header.
+    1.1. Header Logo.
+    1.2. Header Navigation.
+2. Banner.
+    2.1. Background.
+    2.2. Titile.
+    2.3. Text.
+    2.4. Link.
+3. Content.
+    3.1. Features.
+        3.1.1. Feature Item
+    3.2. Feetbacks.
+        3.2.1. Feedback Item 
+4. Footer.
